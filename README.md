@@ -1,16 +1,44 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут Иван Подымов
 
-<!--
-**IPodymov/IPodymov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Добро пожаловать на мой GitHub-профиль!  
+Здесь вы найдёте проекты, связанные с разработкой, автоматизацией и обучением.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 Обо мне
+
+- 💻 **Разработчик**: опыт в Python, JavaScript, Typescript, Bash
+- 🛠️ **DevOps**: CI/CD, Docker, Kubernetes, GitHub Actions
+- 📚 **Обучение**: активно изучаю современные технологии и делюсь знаниями
+- 🎮 **Хобби**: геймдев, машинное обучение, open source
+
+---
+
+## 📈 Статистика
+
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=IPodymov&show_icons=true&theme=radical)
+![Языки в репозиториях](https://github-readme-stats.vercel.app/api/top-langs/?username=IPodymov&layout=compact&theme=radical)
+
+---
+
+## 📫 Связаться со мной
+
+- [Telegram](https://t.me/IPodymov)
+- [LinkedIn](https://www.linkedin.com/in/ipodymov)
+- Email: ipodymov@gmail.com
+
+---
+
+## 🔥 Мои лучшие проекты
+
+| Проект | Описание | Технологии |
+|--------|----------|------------|
+| [AutoDeploy](https://github.com/IPodymov/autodeploy) | Автоматизация деплоймента сервисов | Python, Docker, CI/CD |
+| [GameHub](https://github.com/IPodymov/gamehub) | Платформа для игровых проектов | TypeScript, React, Node.js |
+| [LearnML](https://github.com/IPodymov/learnml) | Материалы по машинному обучению | Python, Jupyter |
+
+---
+
+> Всегда открыт к новым проектам, сотрудничеству и интересным вызовам!
+
+_Спасибо, что зашли!_
