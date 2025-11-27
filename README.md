@@ -23,21 +23,12 @@
 
 ## 📫 Связаться со мной
 
-- [Telegram](https://t.me/IPodymov)
-- [LinkedIn](https://www.linkedin.com/in/ipodymov)
-- Email: ipodymov@gmail.com
+- [Telegram](https://t.me/ipodymov)
+- [VK](https://vk.com/soulgrok)
+- Email: podymovv55@gmail.com
 
 ---
 
-## 🔥 Мои лучшие проекты
-
-| Проект | Описание | Технологии |
-|--------|----------|------------|
-| [AutoDeploy](https://github.com/IPodymov/autodeploy) | Автоматизация деплоймента сервисов | Python, Docker, CI/CD |
-| [GameHub](https://github.com/IPodymov/gamehub) | Платформа для игровых проектов | TypeScript, React, Node.js |
-| [LearnML](https://github.com/IPodymov/learnml) | Материалы по машинному обучению | Python, Jupyter |
-
----
 
 > Всегда открыт к новым проектам, сотрудничеству и интересным вызовам!
 
