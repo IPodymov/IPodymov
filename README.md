@@ -10,7 +10,7 @@
 - 💻 **Разработчик**: опыт в Python, JavaScript, Typescript, Bash
 - 🛠️ **DevOps**: CI/CD, Docker, Kubernetes, GitHub Actions
 - 📚 **Обучение**: активно изучаю современные технологии и делюсь знаниями
-- 🎮 **Хобби**: геймдев, машинное обучение, open source
+- 🎮 **Хобби**: машинное обучение, open source
 
 ---
 
