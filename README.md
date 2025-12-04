@@ -17,11 +17,12 @@
 Технологии и инструменты
 (включены по запросу: Python, FastAPI, Vue)
 - Backend: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python • ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-- Frontend: ![Vue.js](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white) Vue • ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript • ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) TypeScript
+- Frontend: ![Vue.js](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white) Vue • ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) React • ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) TypeScript • ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript
 - Databases: ![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white) PostgreSQL
 - ORMs / Tools: ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=flat&logo=sqlalchemy&logoColor=white) SQLAlchemy
 - DevOps: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) Docker • CI/CD
 - Misc: Git, REST, OpenAPI / Swagger, WebSocket, Redis
+
 
 Короткая статистика
 - ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IPodymov&show_icons=true&theme=default)
