@@ -1,45 +1,100 @@
-# Привет! 👋 Меня зовут Иван Подымов
+<div align="center">
+  
+# 👋 Привет! Я Иван Подымов
 
-Добро пожаловать на мой GitHub-профиль!  
-Здесь вы найдёте проекты, связанные с разработкой, автоматизацией и обучением.
+### Software Engineer | Full-Stack Developer
 
----
-Кратко обо мне
-- Инженер-программист / разработчик приложений.
-- Работаю с backend и frontend, проектирую API и пользовательские интерфейсы.
-- Люблю чистый код, автоматизацию и воспроизводимые окружения (Docker).
-
-Текущие фокусы
-- API-first development, производительность и удобство использования API.
-- Современный frontend (SPA) и взаимодействие с backend через REST / WebSocket.
-- Автоматизация разворачивания и тестирования.
-
-Технологии и инструменты
-(включены по запросу: Python, FastAPI, NestJS, TypeScript, Vue)
-- Backend: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python • ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) FastAPI • ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) NestJS • ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) TypeScript
-- Frontend: ![Vue.js](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white) Vue • ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) React • ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) TypeScript • ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript
-- Databases: ![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white) PostgreSQL
-- ORMs / Tools: ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=flat&logo=sqlalchemy&logoColor=white) SQLAlchemy
-- DevOps: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) Docker • CI/CD
-- Misc: Git, REST, OpenAPI / Swagger, WebSocket, Redis
+*Создаю современные веб-приложения с чистым кодом и элегантной архитектурой*
 
 ---
 
-Короткая статистика
-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IPodymov&show_icons=true&theme=default)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IPodymov&layout=compact&theme=default)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ipodymov)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/soulgrok)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:podymovv55@gmail.com)
+
+</div>
+
+---
+
+## 🚀 О себе
+
+Я **инженер-программист** с опытом разработки полнофункциональных веб-приложений. Специализируюсь на создании масштабируемых backend-систем и интуитивных пользовательских интерфейсов.
+
+```typescript
+const ivan = {
+  role: "Full-Stack Developer",
+  code: ["Python", "TypeScript", "JavaScript"],
+  focus: ["API Design", "Clean Architecture", "Performance"],
+  passion: "Building robust and elegant solutions"
+};
+```
+
+### 💡 Мои приоритеты
+
+- 🎯 **API-First Development** — проектирование надёжных и производительных API
+- ⚡ **Modern Frontend** — создание отзывчивых SPA с современными фреймворками
+- 🐳 **DevOps & Automation** — контейнеризация и автоматизация процессов разработки
+- 📐 **Clean Code** — читаемый, поддерживаемый и хорошо протестированный код
+
+---
+
+## 🛠️ Технологический стек
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Базы данных
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+---
+
+## 📊 GitHub Статистика
+
+<div align="center">
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IPodymov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IPodymov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+</div>
 
 ---
 
 ## 📫 Связаться со мной
 
-- [Telegram](https://t.me/ipodymov)
-- [VK](https://vk.com/soulgrok)
-- Email: podymovv55@gmail.com
+<div align="center">
+
+💬 Открыт для обсуждения проектов, идей и возможностей сотрудничества!
+
+**Telegram:** [t.me/ipodymov](https://t.me/ipodymov) | **VK:** [vk.com/soulgrok](https://vk.com/soulgrok) | **Email:** podymovv55@gmail.com
+
+</div>
 
 ---
 
+<div align="center">
+  
+### ✨ *"Хороший код — это код, который легко читать, легко поддерживать и приятно изменять"*
 
-> Всегда открыт к новым проектам, сотрудничеству и интересным вызовам!
+![Profile Views](https://komarev.com/ghpvc/?username=IPodymov&color=blue&style=for-the-badge)
 
-_Спасибо, что зашли!_
+**Спасибо за визит!** 🙌
+
+</div>
