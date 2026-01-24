@@ -23,5 +23,5 @@
 ---
 
 📬 **Как со мной связаться:**
-- Telegram: [@IPodymov](https://t.me/IPodymov) (или проверьте мои репозитории для контактов)
-- Email: [ipodymov@example.com](mailto:ipodymov@example.com) (замените на ваш реальный)
+- Telegram: [@IPodymov](https://t.me/ipodymov) 
+- Email: [podymovv55@gmail.com](mailto:podymovv55@gmail.com) 
