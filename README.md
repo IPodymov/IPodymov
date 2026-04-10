@@ -12,16 +12,19 @@
 - **Data / ML:** Pandas, NumPy, scikit-learn
 - **Tools:** Git, Docker, CI/CD, Swagger/OpenAPI, ESLint, Prettier
 
-### 📊 Моя активность на GitHub
+### 🎯 Сейчас в фокусе
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IPodymov&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IPodymov&layout=compact&theme=radical&langs_count=8" />
-</p>
+- Разработка fullstack-приложений с упором на производительность, удобный UX и поддержку в долгую
+- Проектирование API, схем данных и архитектуры, которые легко масштабировать
+- Создание современных интерфейсов на React / Next.js / Vue 3 с типизацией и понятной структурой
+- Автоматизация рутины через CI/CD, Docker и качественные процессы code review
 
-### 🏆 Достижения
+### 🤝 Чем могу быть полезен
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IPodymov&theme=radical)](https://git.io/streak-stats)
+- Запуск MVP и внутренних сервисов от идеи до продакшена
+- Рефакторинг и развитие существующих проектов без потери стабильности
+- Интеграция backend и frontend в единый, предсказуемый рабочий процесс
+- Улучшение качества кода, DX команды и технической документации
 
 ---
 
