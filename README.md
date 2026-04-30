@@ -1,8 +1,15 @@
 # 👋 Привет, я Иван
 
-Разработчик, увлеченный созданием качественных веб-приложений и сервисов. Работаю с полным циклом разработки — от проектирования API и баз данных до создания современных интерфейсов.
+Я fullstack-разработчик. Проектирую и развиваю веб-приложения с упором на **чистую архитектуру**, **понятный UX** и **стабильную работу в продакшене**.
 
-### 🛠 Технологии, с которыми я писал проекты
+### 🚀 Чем могу быть полезен
+
+- Разработка и развитие frontend/backend-частей продукта
+- Проектирование API, схем данных и интеграций
+- Оптимизация производительности и качества кода
+- Настройка процессов разработки: линтинг, CI/CD, контейнеризация
+
+### 🛠 Технологии
 
 - **Frontend:** React, Next.js, Vue 3, TypeScript, Vite
 - **State management:** Redux Toolkit, Zustand, MobX, Pinia
@@ -12,7 +19,7 @@
 - **Data / ML:** Pandas, NumPy, scikit-learn
 - **Tools:** Git, Docker, CI/CD, Swagger/OpenAPI, ESLint, Prettier
 
-### 📊 Моя активность на GitHub
+### 📊 Активность на GitHub
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IPodymov&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
@@ -25,6 +32,7 @@
 
 ---
 
-📬 **Как со мной связаться:**
-- Telegram: [@IPodymov](https://t.me/ipodymov) 
-- Email: [podymovv55@gmail.com](mailto:podymovv55@gmail.com) 
+### 📬 Контакты
+
+- Telegram: [@IPodymov](https://t.me/ipodymov)
+- Email: [podymovv55@gmail.com](mailto:podymovv55@gmail.com)
